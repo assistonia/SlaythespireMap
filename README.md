@@ -8,7 +8,7 @@ Make Main game info:
 
 
 
-Longer video with some how-to info:
+Longer video with some how-to info for map:
 
 [![HOW-TO](https://img.youtube.com/vi/P9ogBkLWmPQ/0.jpg)](https://youtu.be/P9ogBkLWmPQ)
 
