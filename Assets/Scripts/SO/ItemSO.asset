@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e835f758a9a18f047898255b1b7e9060, type: 3}
+  m_Name: ItemSO
+  m_EditorClassIdentifier: 
+  items:
+  - name: "\uB8E8\uB124\uCF54"
+    attack: 2
+    health: 5
+    sprite: {fileID: 21300000, guid: 4b16b3eaf25218843aaa18a01bf38128, type: 3}
+    percent: 0
+  - name: "\uB204\uBAA8"
+    attack: 1
+    health: 7
+    sprite: {fileID: 21300000, guid: c35eee05e6de4af4c89db5dde1a953f6, type: 3}
+    percent: 0
+  - name: "\uB514\uB2C8\uC5D0"
+    attack: 4
+    health: 4
+    sprite: {fileID: 21300000, guid: 5c6911705ba52af4fb7f56b0007994a4, type: 3}
+    percent: 0
+  - name: "\uB77C\uB2C8\uC5D8"
+    attack: 1
+    health: 4
+    sprite: {fileID: 21300000, guid: 6b7fe22487aa38a489a467fb192b55c4, type: 3}
+    percent: 0
+  - name: "\uB8E8\uB370\uB098"
+    attack: 1
+    health: 3
+    sprite: {fileID: 21300000, guid: 4f1baa0a4e21a9646be696ea2364600b, type: 3}
+    percent: 0
+  - name: "\uB9AC\uCF54"
+    attack: 3
+    health: 4
+    sprite: {fileID: 21300000, guid: 3da4c65d49953564fa56303e22f9d707, type: 3}
+    percent: 0
+  - name: "\uCCB4\uB9AC"
+    attack: 4
+    health: 5
+    sprite: {fileID: 21300000, guid: af1414f2fea185c4e8663d68988c7006, type: 3}
+    percent: 0
+  - name: "\uCF08\uD2B8"
+    attack: 3
+    health: 4
+    sprite: {fileID: 21300000, guid: cd04a846ad942f547bf46cf7ac919b4a, type: 3}
+    percent: 0
+  - name: "\uD504\uB9AC\uB098"
+    attack: 3
+    health: 4
+    sprite: {fileID: 21300000, guid: eab16039e203fca43964d618183a93ab, type: 3}
+    percent: 0
+  - name: "\uD0C0\uC774\uAC70"
+    attack: 4
+    health: 8
+    sprite: {fileID: 21300000, guid: 437b06b0772460c43b0c528f81fbcaba, type: 3}
+    percent: 0
+  - name: "\uACE0\uC591\uC7741"
+    attack: 2
+    health: 5
+    sprite: {fileID: 21300000, guid: 0a9433285763ed040b4d759a96f322f3, type: 3}
+    percent: 10
+  - name: "\uACE0\uC591\uC7742"
+    attack: 1
+    health: 7
+    sprite: {fileID: 21300000, guid: 0a982f68debf9b84e807e72ab10de650, type: 3}
+    percent: 9
+  - name: "\uACE0\uC591\uC7743"
+    attack: 4
+    health: 4
+    sprite: {fileID: 21300000, guid: cf55b087e4a7b724d83e475b84517391, type: 3}
+    percent: 8
+  - name: "\uACE0\uC591\uC7744"
+    attack: 1
+    health: 4
+    sprite: {fileID: 21300000, guid: a17c1eb7ac7927444b03ab8808554ea5, type: 3}
+    percent: 8
+  - name: "\uACE0\uC591\uC7745"
+    attack: 1
+    health: 3
+    sprite: {fileID: 21300000, guid: 81143a1076675314ea3a538235176c3e, type: 3}
+    percent: 7
+  - name: "\uACE0\uC591\uC7746"
+    attack: 3
+    health: 4
+    sprite: {fileID: 21300000, guid: aed092994fe9a324198d8ec1710b05c7, type: 3}
+    percent: 6
+  - name: "\uACE0\uC591\uC7747"
+    attack: 4
+    health: 4
+    sprite: {fileID: 21300000, guid: aed092994fe9a324198d8ec1710b05c7, type: 3}
+    percent: 5
+  - name: "\uACE0\uC591\uC7748"
+    attack: 3
+    health: 4
+    sprite: {fileID: 21300000, guid: 7f0844338efcc8343baa33755ec67fd2, type: 3}
+    percent: 5
+  - name: "\uACE0\uC591\uC7749"
+    attack: 4
+    health: 8
+    sprite: {fileID: 21300000, guid: 48fe715d43e60aa4ca9b888f12974f9d, type: 3}
+    percent: 5
