@@ -3,7 +3,7 @@
 
 Make Main game info:
 
-[![HOW-TO](https://youtu.be/0_QHzyXVrJ0)]
+(https://youtu.be/0_QHzyXVrJ0)
 
 
 
