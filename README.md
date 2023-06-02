@@ -28,13 +28,13 @@ Free resources and assets used in the project:
 Use bgm
 
 Credit and Main Menu
-Kuwago https://www.youtube.com/@kuwago3613
-Parade https://www.youtube.com/watch?v=ozm5zYKg-Ng
-Interstllar https://www.youtube.com/watch?v=JmgjHlTA8II
+- Kuwago https://www.youtube.com/@kuwago3613
+- Parade https://www.youtube.com/watch?v=ozm5zYKg-Ng
+- Interstllar https://www.youtube.com/watch?v=JmgjHlTA8II
 
 Map Bgm
-Kevin MacLeod [Official] - The Show Must Be Go!  https://youtu.be/UkD0Tj6fQvo
+- Kevin MacLeod [Official] - The Show Must Be Go!  https://youtu.be/UkD0Tj6fQvo
 
 Fight Bgm
-Groove Addicts & Ninja Tracks
-https://www.youtube.com/watch?v=T4MAaGJMBdY&list=PLpvCU9Ha9xpUAt9BEjvKqvwkHnPvcJcBB&index=50
+- Groove Addicts & Ninja Tracks
+- https://www.youtube.com/watch?v=T4MAaGJMBdY&list=PLpvCU9Ha9xpUAt9BEjvKqvwkHnPvcJcBB&index=50
