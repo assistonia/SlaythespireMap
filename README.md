@@ -1,5 +1,4 @@
-# Slay the Spire like game
-
+# Dongeon Tactics
 
 Make Main game info:
 
