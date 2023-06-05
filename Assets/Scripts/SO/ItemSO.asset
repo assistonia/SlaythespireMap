@@ -67,44 +67,64 @@ MonoBehaviour:
     attack: 2
     health: 5
     sprite: {fileID: 21300000, guid: 0a9433285763ed040b4d759a96f322f3, type: 3}
-    percent: 10
+    percent: 0
   - name: "\uACE0\uC591\uC7742"
     attack: 1
     health: 7
     sprite: {fileID: 21300000, guid: 0a982f68debf9b84e807e72ab10de650, type: 3}
-    percent: 9
+    percent: 0
   - name: "\uACE0\uC591\uC7743"
     attack: 4
     health: 4
     sprite: {fileID: 21300000, guid: cf55b087e4a7b724d83e475b84517391, type: 3}
-    percent: 8
+    percent: 0
   - name: "\uACE0\uC591\uC7744"
     attack: 1
     health: 4
     sprite: {fileID: 21300000, guid: a17c1eb7ac7927444b03ab8808554ea5, type: 3}
-    percent: 8
+    percent: 0
   - name: "\uACE0\uC591\uC7745"
     attack: 1
     health: 3
     sprite: {fileID: 21300000, guid: 81143a1076675314ea3a538235176c3e, type: 3}
-    percent: 7
+    percent: 0
   - name: "\uACE0\uC591\uC7746"
     attack: 3
     health: 4
     sprite: {fileID: 21300000, guid: aed092994fe9a324198d8ec1710b05c7, type: 3}
-    percent: 6
+    percent: 0
   - name: "\uACE0\uC591\uC7747"
     attack: 4
     health: 4
     sprite: {fileID: 21300000, guid: aed092994fe9a324198d8ec1710b05c7, type: 3}
-    percent: 5
+    percent: 0
   - name: "\uACE0\uC591\uC7748"
     attack: 3
     health: 4
     sprite: {fileID: 21300000, guid: 7f0844338efcc8343baa33755ec67fd2, type: 3}
-    percent: 5
+    percent: 0
   - name: "\uACE0\uC591\uC7749"
     attack: 4
     health: 8
     sprite: {fileID: 21300000, guid: 48fe715d43e60aa4ca9b888f12974f9d, type: 3}
+    percent: 0
+  - name: Skull
+    attack: 1
+    health: 4
+    sprite: {fileID: 21300000, guid: bba668ace182b304891b3d64a9e3a4e9, type: 3}
+    percent: 5
+  - name: Red Dragon
+    attack: 5
+    health: 8
+    sprite: {fileID: 21300000, guid: 534996a3cf6e9aa49ab77ef7df2dbd36, type: 3}
+    percent: 5
+  - name: Black Dragon
+    attack: 6
+    health: 8
+    sprite: {fileID: 21300000, guid: 0be21c390f0eab2438e73339045cfb65, type: 3}
+    percent: 5
+  - name: Zombie
+    attack: 2
+    health: 5
+    sprite: {fileID: 21300000, guid: 8f2e06054d72d294f910494365d6ed5b, type: 3}
     percent: 5
